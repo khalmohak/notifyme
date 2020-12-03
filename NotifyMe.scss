@@ -9,8 +9,8 @@
 .notification {
     display: inline-block;
     position: relative;
-    padding: 6px;
-    background: #282828;
+    
+    background: #fff;
     border-radius: 45px;
     font-size: 1.3em;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -85,6 +85,6 @@
 }
 
 .notification-info-panel .notification-message.unread {
-    background-color: #17A2B8;
-    color: #FFFFFF;
+    background-color: #fff;
+    color: #000;
 }
